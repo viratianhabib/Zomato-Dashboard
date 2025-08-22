@@ -21,7 +21,12 @@ It highlights **sales, orders, customer ratings, and insights across cities**, h
 
 ## 🛠️ Tools Used
 - Power BI  
-- Data Visualization & Analytics  
+- Data Visualization & Analytics
+- ## 📊 Dashboard Preview  
+
+[Dashboard Screenshot 1](ZOMATO1.png)  
+[Dashboard Screenshot 2](ZOMATO2.png)  
+
 
 ---
 
